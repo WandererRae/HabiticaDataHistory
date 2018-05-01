@@ -1,5 +1,5 @@
 //
-//  TaskDetailView.swift
+//  TaskDetailViewController.swift
 //  HabiticaDataHistory
 //
 //  Created by Bogue Shannon on 4/3/18.
@@ -8,8 +8,8 @@
 
 import UIKit
 
-class TaskDetailView: UIViewController {
-
+class TaskDetailViewController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

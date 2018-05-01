@@ -1,5 +1,5 @@
 //
-//  CompleteTaskList.swift
+//  CompleteTaskListViewController.swift
 //  HabiticaDataHistory
 //
 //  Created by Bogue Shannon on 4/3/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CompleteTaskList: UITableViewController {
+class CompleteTaskListViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

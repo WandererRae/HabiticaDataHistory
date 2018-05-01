@@ -1,5 +1,5 @@
 //
-//  HabiticaSignIn.swift
+//  HabiticaSignInViewController.swift
 //  HabiticaDataHistory
 //
 //  Created by Bogue Shannon on 4/3/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class HabiticaSignIn: UIViewController {
+class HabiticaSignInViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
